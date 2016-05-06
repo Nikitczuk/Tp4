@@ -1,0 +1,182 @@
+.hide{
+	display: none;
+}
+.wrap{
+	width: 960px;
+	height: auto;
+	margin: 0 auto;
+}
+body{
+	font-family: 'Raleway', sans-serif;
+}
+.logo{
+	float: left;
+}
+.menuHeader{
+	float:left;
+}
+
+header{
+	padding: 45px 0;
+	width: auto;
+	background: #ffffff;
+	letter-spacing: 4px;
+	overflow:auto;
+}
+.home_contact{
+	text-decoration: none;
+	color: #a8abb0;
+	float: left;
+	margin: 0 15px;
+}
+.home_contact:hover{
+	color: #14324a;
+}
+.barra_superior{
+	font-size: 12px;
+	font-weight:bold;
+	text-transform: uppercase;
+	float:right;
+	line-height:2;
+}
+.subtitulo{
+	font-size: 45px;
+	text-transform: capitalize;
+	font-weight:bold;
+	text-align:center;
+	color:#fff;
+}
+.p1{
+	font-size: 16px;
+	color: #fff;
+	text-align:center;
+	margin-top:25px;
+}
+.contact-section{
+	background-image: url(Img/contact_fondo.jpg);
+	background-repeat: none;
+	width: auto;
+	padding:180px 0;
+	margin:0 auto;
+}
+.formulario{
+	text-align: center;
+}
+.pt1{
+	font-size: 35px;
+	text-transform: capitalize;
+	font-weight: bold;
+}
+.seccionFormulario{
+	margin:0 auto;
+	margin-top: 100px;
+	padding: 50px 0 80px 0;
+	overflow: auto;
+
+}
+
+.pt2{
+	margin-top: 45px;
+	font-size: 16px;
+	color: #7b7c80;
+}
+.form{
+	height: 43px;
+	width: 100%;
+	margin: 0 auto;
+	margin-top: 25px;
+	overflow: auto;
+}
+.flex{
+	display: -webkit-box;
+    display: -ms-flexbox;
+    display:flex;
+    justify-content:center;
+	-ms-flex-align: center;
+    align-items:center;
+    -webkit-box-pack: center;
+    -webkit-box-align: center;
+    margin:0 auto;
+}
+textarea{
+	height: 191px;
+	width: 48%;
+	float:right;
+	margin-top: 24px;
+	margin-left: 4%;
+
+}
+.inputText{
+	width: 48%;
+}
+.marginbotton{
+	margin-bottom: 30px;
+	padding-top: 53px;
+}
+
+
+
+
+
+
+
+
+button{
+	background: #06acec;
+	width:171px;
+	height:53px;
+	text-align: center;
+	border-radius: 5px;
+	border:none;
+	color: #fff;
+	font-weight: bold;
+	font-size: 10px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	margin-bottom: 30px;
+}
+
+
+
+.ultimasection{
+	background: #142e40;
+	padding:100px 0;
+}
+.ultimoh2{
+	color: white;
+	font-size: 28px;
+	text-align: center;
+}
+.quinientosk{
+	color: #00aff1;
+	font-size: 36px;
+	font-weight:bold;
+}
+footer{
+	background: #091722;
+	padding:50px 0;
+}
+.copyright{
+	color: #c2c5cc;
+	font-size: 14px;
+	float:left;
+}
+.ultimaul{
+	color: #b5bdc5;
+	font-size: 14px;
+	float:right;
+}
+.home_contact2{
+	text-decoration: none;
+	color: #babdc4;
+	float:left;
+	margin-left:35px;
+}
+.home_contact2:hover{
+	color:#00aff1;
+}
+
+.imgFooter{
+	float:right;
+	margin-left:35px;
+}
